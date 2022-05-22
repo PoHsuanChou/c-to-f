@@ -1,2 +1,2 @@
-# 這是一個攝氏溫度轉華氏溫度的程式
+# This is a program for converting temperature from Celsius to Fahrenheit
 
